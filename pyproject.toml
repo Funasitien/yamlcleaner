@@ -1,8 +1,8 @@
 [project]
 name = "yamlcleaner"
-version = "0.1.0"
+version = "0.1.1"
 description = "Un outil CLI pour nettoyer les fichiers YAML en supprimant les commentaires"
-authors = [{ name = "Funasitien", email = "hello@funa.dev }]
+authors = [{ name = "Funasitien", email = "hello@funa.dev" }]
 license = "MIT"
 readme = "README.md"
 requires-python = ">=3.7"
